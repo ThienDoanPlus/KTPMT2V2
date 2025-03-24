@@ -3,13 +3,13 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Project/Maven2/JavaApp/src/main/java/${packagePath}/${mainClassName}.java to edit this template
  */
 
-package com.ntd.mavenproject2;
+package com.ntd.unittestdemo;
 
 /**
  *
  * @author Admin
  */
-public class Mavenproject2 {
+public class UnitTestDemo {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
